@@ -11,7 +11,7 @@
 - 💻 Passionate about coding and problem-solving
 
 ## 🚀 Projects
-- [Transcendance](https://github.com/transcendencia/ft_transcendence)
+- [Transcendance](https://github.com/lciullo/Transcendence)
 - [Minishell](https://github.com/lciullo/Minishell)
 - [IRC](https://github.com/lciullo/IRC)
 - [Cub3D](https://github.com/lciullo/cub3D)
