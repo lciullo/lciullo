@@ -7,6 +7,7 @@
 
 ## 🎓 About Me
 - 🌱 Currently studying at [42](https://42.fr/)  an innovative programming school known for its peer-to-peer learning approach and project-based curriculum.
+- Currently searching for an internship.
 - 💻 Passionate about coding and problem-solving
 
 ## 🚀 Projects
