@@ -11,12 +11,10 @@
 - 💻 Passionate about coding and problem-solving
 
 ## 🚀 Projects
-- [Transcendance](https://github.com/YOUR_USERNAME/Transcendance)
-- [Minishell](https://github.com/YOUR_USERNAME/Minishell)
-- [IRC](https://github.com/YOUR_USERNAME/IRC)
-- [Inception](https://github.com/YOUR_USERNAME/Inception)
-- [Piscine C++](https://github.com/YOUR_USERNAME/CPP_Piscine)
-- [Cub3D](https://github.com/YOUR_USERNAME/Cub3D)
+- [Transcendance](https://github.com/transcendencia/ft_transcendence)
+- [Minishell](https://github.com/lciullo/Minishell)
+- [IRC](https://github.com/lciullo/IRC)
+- [Cub3D](https://github.com/lciullo/cub3D)
 
 ## 🛠 Languages and Tools
 <p align="left">
