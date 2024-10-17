@@ -34,3 +34,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codingame.svg" alt="codingame" width="40" height="40" style="filter: invert(1)"/>
 </p>
+
+
+## 💡My stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lciullo&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lciullo&show_icons=true&theme=default" />
+    </td>
+  </tr>
+</table>
+
