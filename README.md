@@ -11,8 +11,8 @@
 - 💻 Passionate about coding and problem-solving
 
 ## 🚀 Projects
-- [Transcendance](https://github.com/lciullo/Transcendence) The final team project of 42. This is a SPA website game inspired of the original pong game. It is code with django, boostrap, threejs,  all scores are stored in a local blockchain.  
-- [Minishell](https://github.com/lciullo/Minishell) A minimal implementation of a shell based on bash, code in C.
+- [Transcendance](https://github.com/lciullo/Transcendence) : The final team project of 42. This is a SPA website game inspired of the original pong game. It is code with django, boostrap, threejs,  all scores are stored in a local blockchain.  
+- [Minishell](https://github.com/lciullo/Minishell) : A minimal implementation of a shell based on bash, code in C.
 - [IRC](https://github.com/lciullo/IRC) : A chat server based on the IRC protocol with basic commands, code in C++.
 - [Cub3D](https://github.com/lciullo/cub3D) : An implementation of raycasting, inspired by classic Doom-style graphics and method, code in C.
 
