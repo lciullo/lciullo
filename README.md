@@ -15,10 +15,9 @@
 Legend:
 👤Indivual project
 👥 Team project
-🎨 Graphic project
 
 <details>
-<summary style="font-size: 2em""><strong>🚀 42 Projects</strong></summary>
+<summary style="font-size: 2em""><strong>🚀Projects of 42</strong></summary>
 
 * [Transcendance](https://github.com/lciullo/Transcendence) :👥 The final team project of 42. This is a SPA website game inspired of the original pong game. It is code with django, boostrap, threejs,  all scores are stored in a local blockchain.  
 
@@ -26,7 +25,7 @@ Legend:
 
 * [IRC](https://github.com/lciullo/IRC) : 👥 A chat server based on the IRC protocol with basic commands, code in C++.
 
-* [Cub3D](https://github.com/lciullo/cub3D) : 👥🎨An implementation of raycasting, inspired by classic Doom-style graphics and method, code in C.
+* [Cub3D](https://github.com/lciullo/cub3D) : 👥 An implementation of raycasting, inspired by classic Doom-style graphics and method, code in C.
 
 * [Inception](https://github.com/lciullo/Inception) : 👤 A Docker infrastructure project setting up a WordPress website with NGINX, MariaDB, and PHP in separate containers.
 
