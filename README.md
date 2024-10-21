@@ -10,20 +10,8 @@
 - Currently searching for an internship.
 - 💻 Passionate about coding and problem-solving
 
-## 🚀 42 Projects
-- [Transcendance](https://github.com/lciullo/Transcendence) : The final team project of 42. This is a SPA website game inspired of the original pong game. It is code with django, boostrap, threejs,  all scores are stored in a local blockchain.  
-- [Minishell](https://github.com/lciullo/Minishell) : A minimal implementation of a shell based on bash, code in C.
-- [IRC](https://github.com/lciullo/IRC) : A chat server based on the IRC protocol with basic commands, code in C++.
-- [Cub3D](https://github.com/lciullo/cub3D) : An implementation of raycasting, inspired by classic Doom-style graphics and method, code in C.
-- [Inception](https://github.com/lciullo/Inception) :
-- [CPP_Piscine](https://github.com/lciullo/CPP_Piscine) :
-- [Pipex](https://github.com/lciullo/pipex) : 
-- [Push_swap](https://github.com/lciullo/push_swap) : 
-- [Philosopher](https://github.com/lciullo/philo) : 
-
-
 <details>
-<summary>🚀 42 Projects</summary>
+<summary style="font-size: 2em; font-weight: bold; display: inline-block !important;""><strong>🚀 42 Projects</strong></summary>
 
 * [Transcendance](https://github.com/lciullo/Transcendence) : The final team project of 42. This is a SPA website game inspired of the original pong game. It is code with django, boostrap, threejs,  all scores are stored in a local blockchain.  
 
@@ -33,13 +21,13 @@
 
 * [Cub3D](https://github.com/lciullo/cub3D) : An implementation of raycasting, inspired by classic Doom-style graphics and method, code in C.
 
-* [CPP_Piscine](https://github.com/lciullo/CPP_Piscine) :
+* [CPP_Piscine](https://github.com/lciullo/CPP_Piscine) : A comprehensive dive into C++ fundamentals through 9 modules, covering basics to advanced features like templates and STL.
 
-* [Pipex](https://github.com/lciullo/pipex) : 
+* [Pipex](https://github.com/lciullo/pipex) : A program that recreates the functionality of shell pipes (|) in C, handling inter-process communication.
 
-* [Push_swap](https://github.com/lciullo/push_swap) :
+* [Push_swap](https://github.com/lciullo/push_swap) : An efficient sorting algorithm implementation using two stacks and a limited set of operations.
 
-* [Philosopher](https://github.com/lciullo/philo) : 
+* [Philosopher](https://github.com/lciullo/philo) : A solution to the dining philosophers problem using threads and mutexes to handle synchronization.
 
 </details>
 
