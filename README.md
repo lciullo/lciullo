@@ -10,8 +10,9 @@
 - Currently searching for an internship.
 - 💻 Passionate about coding and problem-solving
 
+## 🗃️Projects
 <details>
-<summary style="font-size: 2em; font-weight: bold; display: inline-block !important;""><strong>🚀 42 Projects</strong></summary>
+<summary style="font-size: 2em""><strong>🚀 42 Projects</strong></summary>
 
 * [Transcendance](https://github.com/lciullo/Transcendence) : The final team project of 42. This is a SPA website game inspired of the original pong game. It is code with django, boostrap, threejs,  all scores are stored in a local blockchain.  
 
