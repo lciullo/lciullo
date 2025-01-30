@@ -27,6 +27,8 @@ Legend:
 
 * [Cub3D](https://github.com/lciullo/cub3D) : 👥 An implementation of raycasting, inspired by classic Doom-style graphics and method, code in C.
 
+* [SnowCrash](https://github.com/lciullo/SnowCrash) : 👥 A cybersecurity CTF (Capture The Flag) project, focused on discovering and exploiting various security vulnerabilities.
+
 * [Inception](https://github.com/lciullo/Inception) : 👤 A Docker infrastructure project setting up a WordPress website with NGINX, MariaDB, and PHP in separate containers.
 
 * [CPP_Piscine](https://github.com/lciullo/CPP_Piscine) :👤 A comprehensive dive into C++ fundamentals through 9 modules, covering basics to advanced features like templates and STL.
